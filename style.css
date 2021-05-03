@@ -21,7 +21,7 @@ body {
 }
 
 .navbar a:hover {
-  color: pink;
+  color: black;
   text-decoration:underline;
 }
 
